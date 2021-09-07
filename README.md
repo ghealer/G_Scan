@@ -7,6 +7,8 @@
 ### ✨ Demo
 ![](https://raw.githubusercontent.com/ghealer/G_Scan/main/img/demo.png)
 
+![](https://raw.githubusercontent.com/ghealer/G_Scan/main/img/demo_2.png)
+
 ### 🚀 快速使用
 
 
